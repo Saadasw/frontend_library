@@ -82,7 +82,7 @@ function App() {
 
       {/* Add New Book */}
       <div>
-        <h2>Add a New Book</h2>
+        <h2>Add...... a New Book</h2>
         <input
           type="number"
           placeholder="ID"
