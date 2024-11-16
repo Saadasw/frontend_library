@@ -6,7 +6,7 @@ function App() {
   const [editingBook, setEditingBook] = useState(null);
 
   //const API_URL = "http://127.0.0.1:8000/books";
-  const API_URL = "https://bookapi-2ta6.onrender.com";
+  const API_URL = "https://bookapi-2ta6.onrender.com/books";
   // Fetch all books
   useEffect(() => {
     fetchBooks();
